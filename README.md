@@ -1,4 +1,4 @@
-Electron based Telegram WEB extension with autoclicker! Native running TapSwap on desktop without emulators!
+Electron based Telegram WEB extension with autoclicker! Native running W-Coin on desktop without emulators!
 
 > [!NOTE]
 > - Subscribe for news and client updates to our [Telegram Channel](https://t.me/kiba_scripts)
