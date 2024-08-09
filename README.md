@@ -13,6 +13,8 @@ Electron based Telegram WEB extension with autoclicker! Native running W-Coin on
 ---
 ## DEMO
 
+https://github.com/user-attachments/assets/d0dcce36-7a5f-4b3c-bbbd-022c4c2cd7e3
+
 ---
 ## Our autoclickers
 
